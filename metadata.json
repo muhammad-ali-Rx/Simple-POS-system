@@ -1,0 +1,7 @@
+{
+  "name": "RestoFlow SaaS POS",
+  "description": "A high-performance, multi-tenant restaurant POS system featuring real-time analytics, inventory management, and AI-driven business insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
